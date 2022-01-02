@@ -12,8 +12,9 @@
 ![scikit-learn](https://img.shields.io/static/v1?logo=scikit-learn&label=&message=scikit-learn&color=111&logoColor=AAA&style=flat-square&link=)
 ![pytorch](https://img.shields.io/static/v1?logo=pytorch&label=&message=pytorch&color=111&logoColor=AAA&style=flat-square&link=)
 ![keras](https://img.shields.io/static/v1?logo=keras&label=&message=keras&color=111&logoColor=AAA&style=flat-square&link=)
-
-
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square&link=)
+![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=AAA&style=flat-square&link=)
 <!--
 **jacktheripp3r/jacktheripp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
