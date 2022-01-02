@@ -19,6 +19,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=AAA&style=flat-square&link=)
 ![microsoftsqlserver](https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=microsoftsqlserver&color=111&logoColor=AAA&style=flat-square&link=)
+![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square&link=)
 
 <a href="https://hrituraj.com/">
   Website
