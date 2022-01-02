@@ -3,6 +3,9 @@
 ![Hrituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheripp3r&show_icons=true&theme=dracula)
 
 [![Hrituraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/jacktheripp3r/github-readme-stats)
+
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 <!--
 **jacktheripp3r/jacktheripp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
