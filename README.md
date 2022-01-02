@@ -1,6 +1,6 @@
 <img src=https://github.com/jacktheripp3r/jacktheripp3r/blob/main/download.png>
 
-![Hrituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheripp3r&show_icons=true)
+![Hrituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheripp3r&show_icons=true&theme=dracula)
 
 [![Hrituraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/jacktheripp3r/github-readme-stats)
 <!--
