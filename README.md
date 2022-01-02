@@ -4,9 +4,10 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=#3776AB&style=flat-square&link=)
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![tools](https://img.shields.io/static/v1?label=&message=libraries:&color=555&style=flat-square)
 ![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=pandas&color=111&logoColor=#150458&style=flat-square&link=)
 ![numpy](https://img.shields.io/static/v1?logo=numpy&label=&message=numpy&color=111&logoColor=AAA&style=flat-square&link=)
+![selenium](https://img.shields.io/static/v1?logo=selenium&label=&message=selenium&color=111&logoColor=AAA&style=flat-square&link=)
 <!--
 **jacktheripp3r/jacktheripp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
