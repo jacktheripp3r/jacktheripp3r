@@ -6,6 +6,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
 <!--
 **jacktheripp3r/jacktheripp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
