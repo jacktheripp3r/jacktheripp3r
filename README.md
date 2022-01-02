@@ -3,7 +3,7 @@
 ![Hrituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacktheripp3r&show_icons=true&theme=dracula)
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=#3776AB&logoColor=AAA&style=flat-square&link=)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=#3776AB&style=flat-square&link=)
 ![pandas](https://img.shields.io/static/v1?logo=pandas&label=&message=pandas&color=#150458&logoColor=#150458&style=flat-square&link=)
 ![numpy](https://img.shields.io/static/v1?logo=numpy&label=&message=numpy&color=#013243&logoColor=AAA&style=flat-square&link=)
 <!--
